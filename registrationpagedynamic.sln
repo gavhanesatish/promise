@@ -5,12 +5,16 @@ VisualStudioVersion = 16.0.32428.249
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B66E7963-8856-44C0-A0AC-797F964DE3EE}"
 	ProjectSection(SolutionItems) = preProject
+		Asyncawait.js = Asyncawait.js
 		callback.js = callback.js
+		createdeletepost.js = createdeletepost.js
 		deletepost.js = deletepost.js
 		Dynamicpage.html = Dynamicpage.html
+		Promiseall.js = Promiseall.js
 		Promises.js = Promises.js
 		Queue.js = Queue.js
 		Stack.js = Stack.js
+		updatelastactivitytime.js = updatelastactivitytime.js
 	EndProjectSection
 EndProject
 Global
